@@ -14,5 +14,5 @@ The project helps me accomplish several things:
 - Meaningfully share my favorite daily cooking routine with healthy, balanced, planted-based recipes.
 - Leave a touch of Vietnamese to the Odin Project community with recipes that I grew up with :) 
 
-You can access the project here: https://github.com/khoanatran
+You can access the project here: https://khoanatran.github.io/odin-recipes/
 Hope you enjoy it!
